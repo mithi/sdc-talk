@@ -22,3 +22,5 @@
 - Note: For PID controllers a lowpass filter is usually necessary to filter out noisy sensor data for the derivative part
 - [Control Guru: Using Signal Filters](https://controlguru.com/using-signal-filters-in-our-pid-loop/)
 - [Berkey: Lowpass filter for Derivative Control](https://ptolemy.berkeley.edu/projects/chess/tbd/wiki/C-code/LowPassFilterForDerivativeControl)
+
+![Feedback](./img.jpg)
