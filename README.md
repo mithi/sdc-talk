@@ -1,7 +1,7 @@
 # SDC Talk
 - A three-hour talk about a problem-solving philosophy, machine learning intuitions, and behavioral cloning in the context of self-driving / self-racing cars.
 
-# To the reader
+# To The Reader
 - Open the PDF directory
 - Read each PDF 
 - Images and other information are properly referenced as far as I know
@@ -21,6 +21,6 @@
 # ADDITIONAL NOTES:
 - Note: For PID controllers a lowpass filter is usually necessary to filter out noisy sensor data for the derivative part
 - [Control Guru: Using Signal Filters](https://controlguru.com/using-signal-filters-in-our-pid-loop/)
-- [Berkey: Lowpass filter for Derivative Control](https://ptolemy.berkeley.edu/projects/chess/tbd/wiki/C-code/LowPassFilterForDerivativeControl)
+- [Berkeley: Lowpass filter for Derivative Control](https://ptolemy.berkeley.edu/projects/chess/tbd/wiki/C-code/LowPassFilterForDerivativeControl)
 
 ![Feedback](./img.jpg)
