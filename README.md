@@ -9,7 +9,7 @@
 
 # Google Slides Access
 - [What I’m going to talk about today](https://docs.google.com/presentation/d/1AFEenZrhNXDocOTREZ2Agl_AIHFy1jCZYZZKruV7kvU/edit?usp=sharing)
-- [A Problem Solving Philosophy](https://docs.google.com/presentation/d/17j62sY2bl-Xn0i7FbsyLoi2B2G10vIRaDAYhW-z89IE/edit?usp=sharing)
+- [A Problem Solving Philosophy](https://docs.google.com/presentation/d/1W647eSvY3T_BhxgEBA-CZF-LMKNy8HUCbXmIKUiG4WE/edit?usp=sharing)
 - [Machine Learning Intuitions: What you should know by heart](https://docs.google.com/presentation/d/1k5E_dpSk3PzaO-HvwMeOy-UIGHSsVCsVcPXoDzdVa1o/edit?usp=sharing)
 - [Behavioral cloning](https://docs.google.com/presentation/d/17j62sY2bl-Xn0i7FbsyLoi2B2G10vIRaDAYhW-z89IE/edit?usp=sharing)
 
