@@ -1,5 +1,5 @@
 # SDC Talk
-- A three-hour talk about a problem-solving philosophy, machine learning intuitions, and behavioral cloning in the context of self-driving / self-racing cars.
+- A workshop including talks about a problem-solving philosophy, machine learning intuitions, and behavioral cloning in the context of self-driving / self-racing cars.
 
 # To The Reader
 - Open the PDF directory
